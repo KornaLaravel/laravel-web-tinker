@@ -2,6 +2,18 @@
 
 All notable changes to `laravel-web-tinker` will be documented in this file
 
+## 1.10.6 - 2026-04-27
+
+### What's Changed
+
+* Add CSS styles for preformatted text by @ctf0 in https://github.com/spatie/laravel-web-tinker/pull/124
+
+### New Contributors
+
+* @ctf0 made their first contribution in https://github.com/spatie/laravel-web-tinker/pull/124
+
+**Full Changelog**: https://github.com/spatie/laravel-web-tinker/compare/1.10.5...1.10.6
+
 ## 1.10.5 - 2026-02-21
 
 Add Laravel 13 support
